@@ -16,3 +16,5 @@ Here's what you should do:
 6. HTML5: Bad value X-UA-Compatible for attribute http-equiv on element meta when using the X-UA-Compatible meta tag.
 
 7. CSS3: Property [some property here] is an unknown vendor extension when using vendor prefixed properties (like -moz-box-sizing).
+
+See rubric on course website for more details.
